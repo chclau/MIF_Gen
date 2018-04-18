@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% This application generates .mif and .hex files for Altera 
+% This application generates .mif and .hex files for Intel-Altera 
 % memories initialization
 %
 %   Tested on Quartus 15.1
@@ -7,7 +7,7 @@
 %   By Claudio Avi Chami
 %   06/Aug/2016
 %
-% VISIT FPGA SITE: https://fpgasite.wordpress.com
+% VISIT FPGA'er Website: https://fpgaer.wordpress.com
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
